@@ -6,8 +6,8 @@ Always eager to learn and grow in the world of programming and AI!
 
 Skills: C++ / PYHTON / LUA / JS / JAVA
 
-- 🔭 I’m currently working on this page.I am currently deeply focused on developing and debugging FiveM scripts. My goal is to introduce AI into the gaming world, enhancing the overall experience. 
-- 🌱 I’m currently learning AI with python 
+- 🔭 I am currently deeply focused on developing and debugging FiveM scripts. My goal is to introduce AI into the gaming world, enhancing the overall experience. 
+- 🌱 Currently learning AI with python 
 
 
 
